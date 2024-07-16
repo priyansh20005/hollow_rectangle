@@ -48,6 +48,9 @@
         createHollowRectangle(i , j);
 
 
+        System.err.println("");
+
+
 
 
     }
